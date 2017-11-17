@@ -1,0 +1,10 @@
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\bin\Debug\ColorFolder.dll
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\bin\Debug\SharpShell.dll
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\obj\Debug\ColorFolder.Properties.Resources.resources
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\obj\Debug\ColorFolder.csproj.GenerateResource.Cache
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\bin\Debug\SharpShell.pdb
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\bin\Debug\SharpShell.xml
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\obj\Debug\ColorFolder.dll
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\obj\Debug\ColorFolder.pdb
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\obj\Debug\ColorFolder.csprojResolveAssemblyReference.cache
+C:\Users\Beni\Documents\Visual_Studio_2015\Projects\Personal\ColorFolder\ColorFolder\bin\Debug\ColorFolder.pdb
